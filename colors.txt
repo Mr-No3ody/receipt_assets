@@ -1,0 +1,7 @@
+    <color name="cv_splash_color_1">#000000</color>
+    <color name="cv_splash_color_2">#8f00ff</color>
+    <color name="ppColorBackgroundLight">#ffffff</color>
+    <color name="ppColorDividerLine">#f2f2f2</color>
+    <color name="ppColorPrimary">#6a35ff</color>
+    <color name="ppColorTextAssist">#9ca2aa</color>
+    <color name="ppColorTextPrimary">#202046</color>

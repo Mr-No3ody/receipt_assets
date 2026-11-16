@@ -1,0 +1,3 @@
+    <dimen name="dp26">26.0dp</dimen>
+    <dimen name="micro_text">12.0dp</dimen>
+    <dimen name="small_text">14.0dp</dimen>
